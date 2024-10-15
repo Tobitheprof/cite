@@ -1,0 +1,17 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.x.com	TRUE	/	TRUE	1760553394	guest_id	v1%3A169636700222518145
+.x.com	TRUE	/	TRUE	1760553419	night_mode	2
+.x.com	TRUE	/	TRUE	1729026395	gt	1846258880268890142
+.x.com	TRUE	/	TRUE	1763231818	kdt	hOf1XnKVMWRLrex2x5gs3f1OwO7GRboALJNAnU6J
+.x.com	TRUE	/	TRUE	1763231818	auth_token	a2e2df5baa972b49e0c473ca7882f49320c5e0e4
+.x.com	TRUE	/	TRUE	1763231818	ct0	2cf398a262b7789b5f4f333060dab136b4b392f99319233bed73316edb338c2a139514fbe221f49e9df11028479d8a2b38a249e5432d9bd0e6d0bd6f2fd6d6b4bc8ac29fc26339a8537fde56ad5edd85
+.x.com	TRUE	/	TRUE	1729103819	att	1-kzBNICt81C39dR014czBKm03XYk4OnBKF7eWtl9I
+x.com	FALSE	/	FALSE	0	lang	en
+.x.com	TRUE	/	TRUE	1760553422	twid	u%3D1501327619354210310
+.x.com	TRUE	/	TRUE	1744569422	d_prefs	MToxLGNvbnNlbnRfdmVyc2lvbjoyLHRleHRfdmVyc2lvbjoxMDAw
+.x.com	TRUE	/	TRUE	1763231823	guest_id_ads	v1%3A169636700222518145
+.x.com	TRUE	/	TRUE	1763231823	guest_id_marketing	v1%3A169636700222518145
+.x.com	TRUE	/	TRUE	1763231823	personalization_id	"v1_9WeEMv454lG5rPDK6rOPZQ=="
